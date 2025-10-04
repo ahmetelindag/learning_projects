@@ -3,11 +3,11 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 
 ## Repository Structure
 
-- `C/`: C programming projects 
+- [C](C): C programming projects 
 - `Python/`: Python scripts and projects
 - `Image-Processing/`: Image processing experiments
 
 ## Projects
 | Project | Language | Description |
 |---------|----------|-------------|
-|[ATM Simulation](tree/C/atm_simulation) | C | A simple ATM simulation with withdraw, deposit, and exit features
+|[ATM Simulation](https://github.com/ahmetelindag/learning_projects/tree/C/atm_simulation) | C | A simple ATM simulation with withdraw, deposit, and exit features
