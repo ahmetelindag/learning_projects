@@ -3,7 +3,7 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 
 ## Repository Structure
 
-- [C](C): C programming projects 
+- [C](https://github.com/ahmetelindag/learning_projects/tree/C): C programming projects 
 - `Python/`: Python scripts and projects
 - `Image-Processing/`: Image processing experiments
 
@@ -11,3 +11,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 | Project | Language | Description |
 |---------|----------|-------------|
 |[ATM Simulation](https://github.com/ahmetelindag/learning_projects/tree/C/atm_simulation) | C | A simple ATM simulation with withdraw, deposit, and exit features
+| [BMI Calculator](https://github.com/ahmetelindag/learning_projects/tree/C/bmi_calculator) | C | A simple BMI calculator with weight status
