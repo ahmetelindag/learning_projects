@@ -13,3 +13,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 |[ATM Simulation](https://github.com/ahmetelindag/learning_projects/tree/C/atm_simulation) | C | A simple ATM simulation with withdraw, deposit, and exit features
 |[BMI Calculator](https://github.com/ahmetelindag/learning_projects/tree/C/bmi_calculator) | C | A simple BMI calculator with weight status
 |[Calculator](https://github.com/ahmetelindag/learning_projects/tree/C/calculator) | C | A simple calculator with basic operations
+|[Triangle Calculator](https://github.com/ahmetelindag/learning_projects/tree/C/triangle_calculator) | C | Calculates area and perimeter of a triangle
