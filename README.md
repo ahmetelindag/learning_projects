@@ -14,3 +14,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 |[BMI Calculator](https://github.com/ahmetelindag/learning_projects/tree/C/bmi_calculator) | C | A simple BMI calculator with weight status
 |[Calculator](https://github.com/ahmetelindag/learning_projects/tree/C/calculator) | C | A simple calculator with basic operations
 |[Triangle Calculator](https://github.com/ahmetelindag/learning_projects/tree/C/triangle_calculator) | C | Calculates area and perimeter of a triangle
+|[Reverse Array Printer](https://github.com/ahmetelindag/learning_projects/tree/C/reverse_array) | C | Prints array elements in reverse order
