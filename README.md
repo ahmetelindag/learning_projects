@@ -10,4 +10,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 ## Projects
 | Project | Language | Description |
 |---------|----------|-------------|
-|[ATM Simulation]([tree/C/atm_simulation/](https://github.com/ahmetelindag/learning_projects/tree/C/atm_simulation)) | C | A simple ATM simulation with withdraw, deposit, and exit features
+|[ATM Simulation](tree/C/atm_simulation) | C | A simple ATM simulation with withdraw, deposit, and exit features
