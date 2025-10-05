@@ -17,3 +17,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 |[Reverse Array Printer](https://github.com/ahmetelindag/learning_projects/tree/C/reverse_array) | C | Prints array elements in reverse order
 [Square Number Finder](https://github.com/ahmetelindag/learning_projects/tree/C/square_finder) | C | Finds perfect squares in a random array 
 |[Profile Creator](https://github.com/ahmetelindag/learning_projects/tree/Python/profile_creator) | Python | Creates a user profile and calculates BMI
+|[Number Guessing Game](https://github.com/ahmetelindag/learning_projects/tree/Python/number_guessing_game) | Python | A game where you guess a number between 1 and 30
