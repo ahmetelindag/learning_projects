@@ -18,3 +18,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 [Square Number Finder](https://github.com/ahmetelindag/learning_projects/tree/C/square_finder) | C | Finds perfect squares in a random array 
 |[Profile Creator](https://github.com/ahmetelindag/learning_projects/tree/Python/profile_creator) | Python | Creates a user profile and calculates BMI
 |[Number Guessing Game](https://github.com/ahmetelindag/learning_projects/tree/Python/number_guessing_game) | Python | A game where you guess a number between 1 and 30
+|[Bank Account Management](https://github.com/ahmetelindag/learning_projects/tree/Python/bank_account_management) | Python | A basic bank account system with deposit, withdraw, and account info
