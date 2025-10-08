@@ -20,3 +20,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 |[Number Guessing Game](https://github.com/ahmetelindag/learning_projects/tree/Python/number_guessing_game) | Python | A game where you guess a number between 1 and 30
 |[Bank Account Management](https://github.com/ahmetelindag/learning_projects/tree/Python/bank_account_management) | Python | A basic bank account system with deposit, withdraw, and account info
 |[Student Management](https://github.com/ahmetelindag/learning_projects/tree/Python/student_management) | Python | A system to manage student records and accounts with CSV
+|[Product Management](https://github.com/ahmetelindag/learning_projects/tree/Python/product_management) | Python | A system to manage products and user accounts with CSV
