@@ -22,4 +22,4 @@ Welcome to my GitHub portfolio! This repository contains a collection of my lear
 |[Student Management](https://github.com/ahmetelindag/learning_projects/tree/Python/student_management) | Python | A system to manage student records and accounts with CSV
 |[Product Management](https://github.com/ahmetelindag/learning_projects/tree/Python/product_management) | Python | A system to manage products and user accounts with CSV
 |[Library Management](https://github.com/ahmetelindag/learning_projects/tree/Python/library_management) | Python | A console-based library system using OOP and SQLite
-|[Library Management](https://github.com/ahmetelindag/learning_projects/tree/Python/SPC_analyzer) | Python | A basic control system, it simulates a manufacturing process, stores measurement data in a SQLite database, and performs quality analysis using Pandas and Matplotlib
+|[SPC Analyzer](https://github.com/ahmetelindag/learning_projects/tree/Python/SPC_analyzer) | Python | A basic control system, it simulates a manufacturing process, stores measurement data in a SQLite database, and performs quality analysis using Pandas and Matplotlib
